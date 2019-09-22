@@ -1,8 +1,10 @@
 # jmocnp
 Now Playing GUI notification for Music On Console(MOC) using notify-send, new notification every time the song changes
 
-
 ![alt text](https://github.com/J216/simple_tag_replace/raw/master/jsi-logo-256.png "JSI Logo")
+
+[![JMOCNP - Now Playing Notifications for Music On Console(MOC)](http://img.youtube.com/vi/WL3fZLfNSwY/0.jpg)](http://www.youtube.com/watch?v=WL3fZLfNSwY "JMOCNP - Now Playing Notifications for Music On Console(MOC)")
+
 # simple_tag_replace
 This is a Python3 script for simply replacing tags in a template with user entered input
 
