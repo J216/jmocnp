@@ -38,3 +38,5 @@ The quick red fox
 jumped over the dog.
 ```
 ![alt text](https://raw.githubusercontent.com/J216/jmocnp/master/jmocnp-screenshot.png "JSI Logo")
+# JMOCNP - Now Playing Notifications for Music On Console(MOC) - YouTube
+[![JMOCNP - Now Playing Notifications for Music On Console(MOC)](https://raw.githubusercontent.com/J216/jmocnp/master/jmocnp-youtube.png)](http://www.youtube.com/watch?v=WL3fZLfNSwY "JMOCNP - Now Playing Notifications for Music On Console(MOC)")
