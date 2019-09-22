@@ -3,7 +3,7 @@ Now Playing GUI notification for Music On Console(MOC) using notify-send, new no
 
 ![alt text](https://github.com/J216/simple_tag_replace/raw/master/jsi-logo-256.png "JSI Logo")
 
-[![JMOCNP - Now Playing Notifications for Music On Console(MOC)](http://img.youtube.com/vi/WL3fZLfNSwY/0.jpg)](http://www.youtube.com/watch?v=WL3fZLfNSwY "JMOCNP - Now Playing Notifications for Music On Console(MOC)")
+[![JMOCNP - Now Playing Notifications for Music On Console(MOC)](https://raw.githubusercontent.com/J216/jmocnp/master/jmocnp-youtube.png)](http://www.youtube.com/watch?v=WL3fZLfNSwY "JMOCNP - Now Playing Notifications for Music On Console(MOC)")
 
 # simple_tag_replace
 This is a Python3 script for simply replacing tags in a template with user entered input
@@ -37,4 +37,4 @@ And then click File --> Save and use the file dialog name our file `fox.txt` the
 The quick red fox
 jumped over the dog.
 ```
-![alt text](https://github.com/J216/simple_tag_replace/raw/master/tagreplace-screenshot.png "JSI Logo")
+![alt text](https://raw.githubusercontent.com/J216/jmocnp/master/jmocnp-screenshot.png "JSI Logo")
