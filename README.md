@@ -12,7 +12,7 @@ sudo apt-get install recode notify-send moc
 ```
 EXAMPLE USAGE:
 ```bash
-./jmocnp
+./jmocnp                # check currently playing easily, good for adding a button to check anytime
 ./jmocnp -l > /dev/null # silentmode to monitor for new song, leave running
 ```
 # Screen shot of the notification
