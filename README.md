@@ -14,7 +14,7 @@ EXAMPLE USAGE:
 ./jmocnp                # check currently playing easily, good for adding a button to check anytime
 ./jmocnp -l > /dev/null # silentmode to monitor for new song, leave running
 ```
-# Screen shot of the notification
+# Screenshot of the notification
 ![alt text](https://raw.githubusercontent.com/J216/jmocnp/master/jmocnp-screenshot.png "JSI Logo")
 
 # Check out the demo on YouTube
