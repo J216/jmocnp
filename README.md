@@ -3,8 +3,6 @@ MOC is a music player for Linux that allows you to play your music from the cons
 
 ![alt text](https://github.com/J216/simple_tag_replace/raw/master/jsi-logo-256.png "JSI Logo")
 
-[![JMOCNP - Now Playing Notifications for Music On Console(MOC)](https://raw.githubusercontent.com/J216/jmocnp/master/jmocnp-youtube.png)](http://www.youtube.com/watch?v=WL3fZLfNSwY "JMOCNP - Now Playing Notifications for Music On Console(MOC)")
-
 # JMOCNP
 This is a bash script for showing what is currently playing in Music On Console(MOC)
 
